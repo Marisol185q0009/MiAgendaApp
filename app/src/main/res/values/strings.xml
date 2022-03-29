@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MiAgendaApp</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_email">tuemail@dominio.com</string>
+    <string name="txt_telefono">000-000-0000</string>
+    <string name="btn_add_contacto">Agregar</string>
+</resources>
